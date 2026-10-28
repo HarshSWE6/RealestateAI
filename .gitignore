@@ -1,0 +1,22 @@
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Environment
+.env
+.venv/
+env/
+venv/
+ENV/
+
+# Temporary audio & uploads
+output/temp_audio/
+output/uploaded_images/
+output/uploaded_bgm/
+*.log
+
+# OS generated
+.DS_Store
+Thumbs.db

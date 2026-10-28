@@ -1,0 +1,30 @@
+{
+  "property_name": "The Azure Residences",
+  "property_type": "2-BHK Ultra Luxury Apartment",
+  "location": "Whitefield, Bengaluru",
+  "price": "₹1.25 Crore",
+  "carpet_area": "1,450 sq.ft.",
+  "possession": "Ready to Move",
+  "key_features": [
+    "Grand architecture with twilight ambient illumination and landscaped entrance",
+    "Expansive living room with Italian marble flooring and sunlit balcony views",
+    "Modern open-concept modular kitchen with premium quartz island and built-in appliances",
+    "Spacious master bedroom with plush designer interiors and panoramic city vistas",
+    "World-class rooftop infinity pool and sunset lounge terrace"
+  ],
+  "contact": {
+    "agent_name": "Realty Assistant Concierge",
+    "phone": "+91 98765 43210",
+    "email": "sales@realtyassistant.in",
+    "website": "www.realtyassistant.in"
+  },
+  "cta_text": "Book your exclusive private walkthrough today!",
+  "images": [
+    "sample_data/images/01_exterior.jpg",
+    "sample_data/images/02_living_room.jpg",
+    "sample_data/images/03_kitchen.jpg",
+    "sample_data/images/04_bedroom.jpg",
+    "sample_data/images/05_amenities.jpg"
+  ],
+  "bgm_audio": "sample_data/bgm_luxury.wav"
+}
